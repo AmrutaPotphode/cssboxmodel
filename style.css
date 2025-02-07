@@ -11,3 +11,29 @@
     padding-right: 50px;
     margin-top: 30px;
 }
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: gray;
+    font-family: Arial;
+}
+
+p{
+    color:white;
+}
+
+.unordered-list{
+    background-color: black;
+    color:white;
+}
+
+#heading{
+    background-color: red;
+    text-align: center;
+}
